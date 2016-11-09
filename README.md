@@ -1,4 +1,4 @@
-# Dark-Souls-3-Spell-animations
+# Dark Souls 3 Spell Casting Animations.
 
 A brief description of the spell animations by ID.
 
