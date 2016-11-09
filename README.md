@@ -3,6 +3,7 @@
 A brief description of the spell animations by ID.
 
 0: Soul Arrow. Arm in the air.
+
 1. Weapon Buff. Two arms up, moving horizontal.
 2. Hidden Body. Arm up in circular motion.
 3. Heal prayer. Crouch down in prayer pose.
